@@ -1,10 +1,10 @@
 # HOW TO RUN .PS1 FILES
-FIRST WAY:
+FIRST METHOD:
 - Right click the .ps1 file and click "Run with PowerShell"
 - Now go over the SmartScreen prompts if necessary. (Note: In Windows 11 you need to show all the details to see the "RUN" button).
 - Enjoy the script!!
 
-SECOND WAY:
+SECOND METHOD:
 - Run a new empty Windows Powershell instance.
 - Type the following command: "Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process" (without the quotation marks).
 - Type "A" on the Powershell propt to continue.
@@ -14,3 +14,4 @@ SECOND WAY:
 
 POSSIBLE ISSUES:
 - You may have disabled the ability to run PowerShell scripts for security purposes. You can know this by typing the following command "Get-ExecutionPolicy -List" and checking the Machine Policy state. If it is set to restricted, that means that you are unable to run PowerShell scripts. For more information about how to disable it, there is a great video from ThioJoe called "Disable These 3 Windows Settings Now! (For Security)". This setting is found from the minute 4:22 to 8:27. You might wanna disable it just for this time but if you dont run powershell scripts very frequently I do recommend turning it on.
+- On the other hand, there is a chance that you mistyped commands so try another method or retry the methods.
