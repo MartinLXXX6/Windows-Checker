@@ -2,7 +2,7 @@
 - The App Processes tab where you can find any apps or backround app processes running.
 
 - The Startup Apps tab (my favourite) where you can all the apps/processes thet are found in the Windows Registry.
-TIP: Not everything show in this tab is starting app, the values indicate it.
+TIP: Not everything shown in this tab is starting app, the values indicate it.
 
 - Finally, the Windows Processes tab where you can find all the Windows Processes in the backround.
 TIP: Be caution about this ones.
