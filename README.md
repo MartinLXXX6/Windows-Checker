@@ -11,3 +11,6 @@ SECOND WAY:
 - Nextly, locate the .ps1 script in File Explorer and copy the path to it without any quotation marks (Example: "C:\Users\\(YOUR USERNAME)\Downloads").
 - Now type the following command: "(PASTE THE LOCATION COPIED BEFORE)\WindowsChecker.ps1"
 - Enjoy the script!!
+
+POSSIBLE ISSUES:
+- You may have disabled the ability to run PowerShell scripts for security purposes. You can know this by typing the following command "Get-ExecutionPolicy -List" and checking the Machine Policy state. If it is set to restricted, that means that you are unable to run PowerShell scripts. For more information about how to disable it, there is a great video from ThioJoe called "Disable These 3 Windows Settings Now! (For Security)". These setting is found from the minute 4:22 to 8:27. You might wanna disable this for this time but if you dont run powershell scripts very frequently i do recommend turning it on.
