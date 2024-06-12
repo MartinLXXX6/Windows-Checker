@@ -15,3 +15,4 @@ SECOND METHOD:
 POSSIBLE ISSUES:
 - You may have disabled the ability to run PowerShell scripts for security purposes. You can know this by typing the following command "Get-ExecutionPolicy -List" and checking the Machine Policy state. If it is set to restricted, that means that you are unable to run PowerShell scripts. For more information about how to disable it, there is a great video from ThioJoe called "Disable These 3 Windows Settings Now! (For Security)". This setting is found from the minute 4:22 to 8:27. You might wanna disable it just for this time but if you dont run powershell scripts very frequently I do recommend turning it on.
 - On the other hand, there is a chance that you mistyped commands so try another method or retry the methods.
+- Dont hesitate to search the web on how how to run PowerShell scripts or by typing the error given by PowerShell.
