@@ -8,7 +8,7 @@ FIRST WAY:
 - Enjoy the script!!
 
 SECOND WAY:
-- Run a new Windows Powershell instance.
+- Run a new empty Windows Powershell instance.
 - Type the following command: "Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process" (without the quotation marks).
 - Type "A" on the Powershell propt to continue.
 - Nextly, locate the .ps1 script in File Explorer and copy the path to it without any quotation marks (Example: "C:\Users\\(YOUR USERNAME)\Downloads").
