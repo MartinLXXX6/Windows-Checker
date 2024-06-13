@@ -1,6 +1,6 @@
 # OVERVIEW
 - The App Processes tab where you can find any apps or backround app processes running.
-
+![Screenshot 2024-06-13 145510](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/0b4a28ff-ec5f-43ec-9343-186128aed3b8)
 - The Startup Apps tab (my personal favourite) where you can all the apps/processes that are found in the Windows Registry and might start up with windows at boot time.
 TIP: Not everything shown in this tab is starting app, the values indicate it.
 
