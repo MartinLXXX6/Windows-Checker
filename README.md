@@ -6,7 +6,7 @@ TIP: Not everything shown in this tab is starting app, the values indicate it.
 ![Startup](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/43a3ada0-94c0-470d-9e6b-5dec3bb3f7c0)
 - Finally, the Windows Processes tab where you can find all the Windows Processes in the backround.
 TIP: Be caution about this ones.
-![Windows Processes](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/4c38b747-aab6-4d3a-aa80-aa559305f2cb)\
+![Windows Processes](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/4c38b747-aab6-4d3a-aa80-aa559305f2cb)
 
 # HOW TO RUN .PS1 FILES
 FIRST METHOD:
