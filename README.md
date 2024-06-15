@@ -16,7 +16,7 @@ FIRST METHOD:
 
 SECOND METHOD:
 - Run a new empty Windows Powershell instance.
-- Type the following command: "Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process" (without the quotation marks).
+- Type the following command: "Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process" (without the quotation marks) NOTE: This sets the process scope as bypass but only for that PowerShell instance.
 - Type "A" on the Powershell propt to continue.
 - Nextly, locate the .ps1 script in File Explorer and copy the path to it without any quotation marks (Example: "C:\Users\\(YOUR USERNAME)\Downloads").
 - Now type the following command: "(PASTE THE LOCATION COPIED BEFORE)\WindowsChecker.ps1"
