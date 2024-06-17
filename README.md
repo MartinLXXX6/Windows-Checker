@@ -1,4 +1,6 @@
 # OVERVIEW
+This script has 3 main sections. App Processes, Startup Apps and Windows Processes. They are explained below.
+
 - The App Processes tab where you can find any apps or backround app processes running.
 ![App Processes](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/91aef9b2-0db1-43b0-9512-b605388b5974)
 - The Startup Apps tab (my personal favourite) where you can all the apps/processes that are found in the Windows Registry and might start up with windows at boot time.
