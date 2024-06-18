@@ -3,9 +3,11 @@ This script has 3 main sections. App Processes, Startup Apps and Windows Process
 
 - The App Processes tab where you can find any apps or backround app processes running.
 ![App Processes](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/91aef9b2-0db1-43b0-9512-b605388b5974)
+
 - The Startup Apps tab (my personal favourite) where you can see all the startup apps/processes that are found in the Windows Registry and might start up with windows at boot time.
 TIP: Not everything shown in this tab is starting app, the values indicate it.
 ![Startup](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/96461c29-51ec-409c-969a-54301bcd616b)
+
 - Finally, the Windows Processes tab where you can find all the Windows Processes in the backround.
 TIP: Be caution about this ones.
 ![Windows Processes](https://github.com/MartinLXXX6/Windows-Controller-Tool/assets/172432259/4c38b747-aab6-4d3a-aa80-aa559305f2cb)
